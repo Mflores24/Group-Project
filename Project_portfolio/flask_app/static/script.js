@@ -32,7 +32,7 @@ $(document).ready(function(){
         var id = this.id;   
         var split_id = id.split("_");
         var text = split_id[0];
-        var postid = split_id[1]; 
+        var post_id = split_id[1]; 
         var type = 0;
         if(text == "like"){
             type = 1;
