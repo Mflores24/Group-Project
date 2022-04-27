@@ -1,0 +1,126 @@
+.wholepage {
+    background-color: black;
+}
+
+.pic {
+    position: fixed;
+    height: 315px;
+    width: 315px;
+    border-radius: 50%;
+    margin: 30px;
+    display: inline-block;
+}
+
+.container {
+    background-color: rgb(51, 196, 147);
+    width: 450px;
+    position: fixed;
+    top: 50px;
+    left: 500px;
+
+}
+.container1 {
+    background-color: blueviolet;
+    width: 300px;
+    position: relative;
+    left: 20px;
+}
+.container2 {
+    position: relative;
+    left: 40px;
+}
+.paragraph {
+    position: relative;
+    left: 40px;
+}
+
+.buttons {
+    position: fixed;
+    left: 1000px;
+    top: 0px;
+}
+.links {
+    position: fixed;
+    left: 370px;
+    top: 200px;
+}
+.bottompics {
+    display: flex;
+    position: fixed;
+    top: 500px;
+    left: 50px;
+}
+.bottompics img {
+    margin-right: 20px;
+}
+.bottompics1 {
+    height: 315px;
+    width: 315px;
+    position: relative;
+}
+.bottompics2 {
+    height: 315px;
+    width: 315px;
+
+}
+.bottompics3 {
+    height: 315px;
+    width: 315px;
+
+}
+.bottompics4{ 
+height: 315px;
+width: 315px;
+}
+#themebutton {
+    position: fixed;
+    left: 600px;
+    top: 300px;
+}
+.switch {
+    position: fixed;
+    top: 60px;
+    left: 1050px;
+}
+.contact {
+    background-color: teal;
+}
+#newbutton {
+    position: relative;
+    left: 800px;
+    top: -50px;
+}
+
+#newbutton2 {
+    position: fixed;
+    left: 800px;
+}
+.resumepic {
+
+}
+.resume {
+    background-color: aqua;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: teal;
+}
+.troublesomeanchortag {
+    position: relative;
+    left: 70px;
+}
+.messagesdisplay {
+
+}
+.post-action{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.like,.unlike{
+    border: 0;
+    background: none;
+    letter-spacing: 1px;
+    color: lightseagreen;
+}
+.like,.unlike:hover{
+    cursor: pointer;
+}

@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+
+    
+}
+
+/* .whole-container {
+    width: 800px;
+    margin: 0 auto;
+    font-family: Trebuchet MS, sans-serif;
+    
+    
+} */
+
+.container-left {
+    width: 400px;
+    display: inline-block;
+    color: rgb(129, 182, 224);
+
+}
+
+#title {
+    text-align: center;
+}
+
+.video {
+    justify-content: center;
+    text-align: center;
+}
+
+
+.container-right {
+    width: 300px;
+    display: inline-block;
+    margin-left: 70px;
+}
+
+#pic {
+    width: 308px;
+    height: 199px;
+    margin-top: 20px;
+}
+
+#text {
+    color: rgb(129, 182, 224);
+}
